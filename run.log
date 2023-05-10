@@ -1,0 +1,10 @@
+Running backdoor-apk at Wed 10 May 2023 12:20:07 PM WAT
+/usr/bin/msfvenom
+/usr/bin/baksmali
+/usr/bin/unzip
+/usr/bin/keytool
+/usr/bin/jarsigner
+/usr/local/bin/apktool
+third-party/android-string-obfuscator/lib/aso
+third-party/android-sdk-linux/build-tools/25.0.2/dx
+third-party/android-sdk-linux/build-tools/25.0.2/zipalign
