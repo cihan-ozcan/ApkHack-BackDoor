@@ -10,7 +10,7 @@ root@parrot:~/Code/script/ApkHack-BackDoor/ApkHack-BackDoor# ./ApkHack-BackDoor.
 	  / _ \ | |_) | ' /  | |_| | / _ \| |   | ' / 
 	 / ___ \|  __/| . \  |  _  |/ ___ \ |___| . \ 
 	/_/   \_\_|   |_|\_\ |_| |_/_/   \_\____|_|\_\
-										BitWalls-ops DarkHub
+								BitWalls-ops DarkHub
        
 
 [*] Running ApkHack-BackDoor.sh v2.0.4a on Tue May 9 17:13:37 EDT 2023
